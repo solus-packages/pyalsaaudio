@@ -2,15 +2,15 @@
     <Source>
         <Name>pyalsaaudio</Name>
         <Packager>
-            <Name>Clive Johnston</Name>
-            <Email>clivejo@protonmail.com</Email>
+            <Name>Bryan T. Meyers</Name>
+            <Email>bmeyers@datadrake.com</Email>
         </Packager>
         <License>Python-2.4</License>
         <PartOf>programming.python</PartOf>
         <Summary xml:lang="en">ALSA bindings</Summary>
         <Description xml:lang="en">Wrappers for accessing the ALSA API from Python. It is fairly complete for PCM devices and Mixer access.
 </Description>
-        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://getsol.us/sources/README.Solus</Archive>
     </Source>
     <Package>
         <Name>pyalsaaudio</Name>
@@ -27,12 +27,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2018-06-05</Date>
+        <Update release="2">
+            <Date>2019-03-31</Date>
             <Version>0.8.4</Version>
             <Comment>Packaging update</Comment>
-            <Name>Clive Johnston</Name>
-            <Email>clivejo@protonmail.com</Email>
+            <Name>Bryan T. Meyers</Name>
+            <Email>bmeyers@datadrake.com</Email>
         </Update>
     </History>
 </PISI>
