@@ -1,6 +1,6 @@
 name       : pyalsaaudio
 version    : 0.8.4
-release    : 2
+release    : 3
 source     :
     - https://files.pythonhosted.org/packages/52/b6/44871791929d9d7e11325af0b7be711388dfeeab17147988f044a41a6d83/pyalsaaudio-0.8.4.tar.gz : 84e8f8da544d7f4bd96479ce4a237600077984d9be1d7f16c1d9a492ecf50085
 license    : Python-2.4
@@ -11,7 +11,6 @@ description: |
 builddeps  :
     - pkgconfig(alsa)
     - pkgconfig(python3)
-    - python-setuptools
 build      : |
     %python3_setup
 install    : |
