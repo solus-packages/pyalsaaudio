@@ -1,8 +1,8 @@
 name       : pyalsaaudio
-version    : 0.8.4
-release    : 4
+version    : 0.9.0
+release    : 5
 source     :
-    - https://files.pythonhosted.org/packages/52/b6/44871791929d9d7e11325af0b7be711388dfeeab17147988f044a41a6d83/pyalsaaudio-0.8.4.tar.gz : 84e8f8da544d7f4bd96479ce4a237600077984d9be1d7f16c1d9a492ecf50085
+    - https://files.pythonhosted.org/packages/23/b1/672d496718562301ce2052b07196ca31874e4f1a497881ae44b2279a4e1d/pyalsaaudio-0.9.0.tar.gz : 3ca069c736c8ad2a3047b5033468d983a2480f94fad4feb0169c056060e01e69
 license    : Python-2.4
 component  : programming.python
 summary    : ALSA bindings
