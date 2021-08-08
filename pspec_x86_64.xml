@@ -2,8 +2,8 @@
     <Source>
         <Name>pyalsaaudio</Name>
         <Packager>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@streambits.io</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>Python-2.4</License>
         <PartOf>programming.python</PartOf>
@@ -19,20 +19,20 @@
 </Description>
         <PartOf>programming.python</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/alsaaudio.cpython-37m-x86_64-linux-gnu.so</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pyalsaaudio-0.9.0-py3.7.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pyalsaaudio-0.9.0-py3.7.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pyalsaaudio-0.9.0-py3.7.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.7/site-packages/pyalsaaudio-0.9.0-py3.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/alsaaudio.cpython-39-x86_64-linux-gnu.so</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pyalsaaudio-0.9.0-py3.9.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pyalsaaudio-0.9.0-py3.9.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pyalsaaudio-0.9.0-py3.9.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.9/site-packages/pyalsaaudio-0.9.0-py3.9.egg-info/top_level.txt</Path>
         </Files>
     </Package>
     <History>
-        <Update release="5">
-            <Date>2020-07-14</Date>
+        <Update release="6">
+            <Date>2021-07-28</Date>
             <Version>0.9.0</Version>
             <Comment>Packaging update</Comment>
-            <Name>Joshua Strobl</Name>
-            <Email>joshua@streambits.io</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>
